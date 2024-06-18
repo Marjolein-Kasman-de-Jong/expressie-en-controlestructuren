@@ -1,2 +1,3 @@
-# expressie-en-controlestructuren
-Higher professional education program PHP &amp; MySQL assignment
+# Expressie En Controlestructuren
+
+Higher professional education program PHP &amp; MySQL assignment.
